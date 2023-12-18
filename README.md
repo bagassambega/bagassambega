@@ -10,7 +10,9 @@ Undergraduate student at Bandung Institute of Technology and now studying comput
 
 ### My Top Language
 
+<div class="badge-container" style="display: flex; justify-content: space-between">
 <img alt="Static Badge" src="https://img.shields.io/badge/Python-s?style=for-the-badge&logo=python&labelColor=green&logoColor=white&color=grey">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS-s?style=for-the-badge&logo=css3&labelColor=blue&logoColor=white&color=grey">
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML-s?style=for-the-badge&logo=html5&labelColor=rgb(220%2C%2075%2C%2037)&logoColor=white&color=grey">
+<img alt="Static Badge" src="https://img.shields.io/badge/C-s?style=for-the-badge&logo=c&labelColor=blue&logoColor=white&color=grey">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-s?style=for-the-badge&logo=oracle&labelColor=red&logoColor=white&color=grey">
+<img alt="Static Badge" src="https://img.shields.io/badge/C++-s?style=for-the-badge&logo=cplusplus&labelColor=blue&logoColor=white&color=grey"></div>
 <a href="https://www.github.com/bagassambega"><img alt="Static Badge" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagassambega&theme=github_dark&show_icons=true"></a>
