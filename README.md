@@ -34,7 +34,9 @@
 
 <img alt="Commit" src="https://github-readme-activity-graph.vercel.app/graph?username=bagassambega&theme=react-dark">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bagassambega&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bagassambega&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
+![Bagas's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagassambega&show_icons=true&theme=vision-friendly-dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagassambega&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 
