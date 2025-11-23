@@ -34,7 +34,7 @@
 
 <img alt="Commit" src="https://github-readme-activity-graph.vercel.app/graph?username=bagassambega&theme=react-dark">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bagassambega&theme=dark&hide_border=false" alt="GitHub Streak Stats">
+![](https://github-readme-streak-stats.herokuapp.com/?user=bagassambega&theme=dark&hide_border=false)<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagassambega&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 
